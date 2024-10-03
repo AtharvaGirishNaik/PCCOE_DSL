@@ -1,4 +1,5 @@
 // ASSIGNMENT 7
+
 // Title : Implement a browser history management system using a stack data structure to track the user's browsing history. The system should support the following functionalities: 
 // a. Add visited page 
 // b. Navigate back 
