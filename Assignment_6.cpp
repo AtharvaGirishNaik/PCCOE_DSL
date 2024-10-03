@@ -1,4 +1,3 @@
-
 // ASSIGNMENT 6
 
 // Title : Consider two polynomial expressions of any degree. Design solution to perform addition of these two polynomials with suitable data structure and display results. 
