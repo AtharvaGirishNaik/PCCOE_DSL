@@ -1,6 +1,6 @@
 //ASSIGNMENT  9A
 
-// Title : Write a program to convert infix expression to postfix, infix expression to prefix and evaluation of postfix and prefix expression
+// Title : Write a program to implement waiting list in a restaurant by using a queue  1) Add 2) Seat 3) Display List 
 
 // PRN NO : 124B2B011
 
